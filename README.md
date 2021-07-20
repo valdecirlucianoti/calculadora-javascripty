@@ -4,8 +4,8 @@
 
 Projeto gerado no curso de Completo de JavaScript na Udemy.com / Hcode treinamentos
 
-Link do curso:(https://www.hcode.com.br)
 Link heroku:
+Link do curso:(https://www.hcode.com.br)
 
 Aplicação que permite efetuar calculos matematicos simples. Esta aplicação tem como fim treinamento da linguagem Javascript, HTML5, CSS3 e SVG.
 
